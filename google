@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+ <head>
+    <title>google</title>
+    <meta charest="UTF-8">
+    <link rel="stylesheet" href="projet.css">
+</head>
+
+<body>
+    <div id="body">
+    <div id="main">
+    <div id="btn">
+    <div style="padding-right: 15px;">
+    <div style="padding-left: 15px; padding-top: 7px;"><a id="conexion"
+    href="https://accounts.google.com/">Connexion</a></div>
+    <div><a onclick="cool()" class="neuf"></a></div>
+  </div>
+    <div style="padding-right: 15xp;">
+    <div style="padding-left: 15xp; padding-top: 7xp;"><a
+        href="https://www.google.fr/imghp?hl=fr&tab=wi&authuser=0&ogbl">Images</a></div>
+    <div style="padding-top: 7xp;"><a href="https://mail.google.com/mail/u/0/?tab=wm&ogble">Gmail</a>
+    </div>
+    </div>
+    </div>
+    <div id="logo">
+      <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"
+      alt="logo">
+    </div>
+    <div id="search">
+      <form>
+      <div class="research">
+        <input>
+        </div> </form>
+      <div class="button">
+      <button> Recherche Google</button>
+      <button> J'ai de la chance</button>
+    </div> </div>
+    <div id="footer">
+      <div id="footer-top"> France </div>
+      </div>
+</body>
+</html>
